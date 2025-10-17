@@ -1,0 +1,58 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.ncb
+*.opensdf
+*.sdf
+*.tlog
+*.log
+*.ilk
+*.aps
+*.bsc
+*.sbr
+*.res
+*.pch
+*.pbo
+*.ipch
+*.obj
+*.o
+*.exe
+*.dll
+*.lib
+*.exp
+*.pdb
+*.idb
+*.opt
+*.manifest
+*.vsproj.user
+*.vsprops
+*.vcxproj.user
+*.vcxproj.filters
+*.vcxproj.user.bak
+*.VC.db
+*.VC.VC.opendb
+
+# Build output directories
+[Dd]ebug/
+[Rr]elease/
+x64/
+Win32/
+bin/
+obj/
+
+# NuGet packages
+packages/
+*.nupkg
+
+# ReSharper files
+*.ReSharper/
+*.resharper
+
+# Visual Studio Code files
+.vscode/
+
+# Other common temporary files
+*.~
+*.bak
+*.tmp
